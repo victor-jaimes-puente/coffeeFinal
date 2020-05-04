@@ -1,0 +1,115 @@
+body {
+    /*background-color: #28a745;*/
+}
+
+/*Outer Table Styling*/
+table {
+    border-collapse: collapse;
+    margin: 1em 0;
+    opacity: 40%;
+    height: 100%;
+
+}
+
+/*Inner Table Styling*/
+td, th {
+    /*border: 1px solid black;*/
+    padding: 5px 10px;
+    /*opacity: 100%;*/
+    color: chartreuse;
+    font-weight: bold;
+}
+.updatedTable {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    font-family: 'Gelasio';
+}
+
+h1 {
+    color: #28a745;
+    margin-right: 10em;
+    /*font-family: 'Ewert';*/
+    /*font-family: 'Shadows Into Light';*/
+    font-family: 'Gelasio';
+}
+/* Background Video */
+
+.beans {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+#navbars {
+    opacity: 80%;
+}
+/*Placeholder Styling - Search Bar*/
+#input-style {
+    font-family: 'Gelasio';
+}
+
+/*Dropdown Menu Styling*/
+#navbarDropdown {
+    color: #28a745;
+    font-family: 'Gelasio';
+}
+/*Dropdown Menu Styling*/
+#navbarDropdown {
+    color: #28a745;
+    font-family: 'Gelasio';
+}
+.dropSubmit{
+    background-color: transparent;
+    color: #28a745;
+    border: #28a745 solid 1px;
+    border-radius: 10%;
+}
+.dropBack {
+    background-color: transparent;
+    color: #28a745;
+    border: none;
+}
+#searchBox{
+    background-color: transparent;
+    color: #28a745;
+}
+.dropItems{
+    background-color: transparent;
+    color: #28a745;
+    border: none;
+    font-size: 1.5em;
+}
+#inputBox{
+    background-color: chartreuse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    opacity: 40%;
+
+
+}
+#inputTextBack{
+    background-color: transparent;
+    color: black;
+    border-radius: 10%;
+    border: none;
+}
+/*body {*/
+/*    background-color: #28a745;*/
+/*}*/
+/*!*Outer Table Styling*!*/
+/*table {*/
+/*    border-collapse: collapse;*/
+/*    margin: 5em 0;*/
+/*    opacity: 40%;*/
+/*    height: 100%;*/
+/*}*/
+
+
+
+
+
